@@ -1,0 +1,46 @@
+.acs_input, .acs_select{
+    margin : 5px!important;
+    height : 2em!important;
+    padding-left : 5px!important;
+    width : 95%;
+}
+.acs-accordeon .accordion-section-content {
+    padding : 0;
+}
+#acs_search{
+    margin : 2px;
+    padding : 2px;
+    background: #e6e6e6;
+}
+.acs_search_wrap{
+    padding-top : 3px;
+    position : absolute;
+    left : 3px;
+}
+.acs_row{
+    background : #EAF2FA;
+    border : #c7d7e2 solid 1px;
+}
+.acs-table input[type=text],
+.acs-table textarea,
+.acs-table select{
+    width: 100%;
+}
+.acs-table{
+    border: none!important;
+    background: #fcfcfc;
+}
+.acs-table tr td label{
+    font-weight: bold;
+}
+.acs-table tr td{
+    border-right: 1px solid #E1E1E1;
+    border-top: 1px solid #F0F0F0;
+}
+.acs-table tr td:first-child{
+    background: #f5f5f5;
+    width: 34%;
+}
+.acs-field-select optgroup{
+    display: none;
+}
